@@ -1,0 +1,6 @@
+{
+  "name": "AI Chatbot Widget",
+  "description": "A professional, embeddable floating AI chatbot widget built with React, Tailwind, and Express, powered by the DeepSeek API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
